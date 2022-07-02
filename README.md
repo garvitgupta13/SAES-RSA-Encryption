@@ -1,9 +1,11 @@
 # Simplified AES with RSA Encryption
 
-```
-Name:    GARVIT GUPTA
-Roll No: 2019060
-```
+## Flow:
+![image](https://user-images.githubusercontent.com/70805691/177010632-fa58c0e4-ad4d-4c72-92e7-69294d4858d0.png)
+
+## Sample Output
+![image](https://user-images.githubusercontent.com/70805691/177010572-127a829b-44bf-40f9-82b1-e0aa8fc44ad6.png)
+
 
 ## Software requirement
 * Make sure to install any jdk(prefer: 14) to run these java files
